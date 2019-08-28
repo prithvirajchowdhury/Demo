@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "byMz5cjdESlj8yXKNU6Oig",
+    "name" : "Dictionary_Auto_Git",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "byMz5cjdESlj8yXKNU6Oig"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
