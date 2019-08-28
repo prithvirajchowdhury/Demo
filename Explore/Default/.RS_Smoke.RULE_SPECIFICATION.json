@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "l9u3Z7Wtbe1baJCH7Yv4YJ",
+    "name" : "RS_Smoke",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "l9u3Z7Wtbe1baJCH7Yv4YJ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
