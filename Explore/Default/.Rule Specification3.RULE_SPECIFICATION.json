@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "fxf5QcXOkk4dz8ZgCRPtCL",
+    "name" : "Rule Specification3",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "fxf5QcXOkk4dz8ZgCRPtCL"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
